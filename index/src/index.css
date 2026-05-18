@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --font-your-font-name: "Font Name", sans-serif;
+}
