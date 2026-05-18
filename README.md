@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL:** [GitHub](https://github.com/ShubhangiMishra215/frontend-mentor-challenges/tree/main/intro-component-with-signup-form)
-- **Live Site URL:** [Add live site URL here](#)
+- **Solution URL:** [Solution link](https://github.com/ShubhangiMishra215/Intro-component-with-sign-up-form.git)
+- **Live Site URL:** [live site URL]( https://shubhangimishra215.github.io/Intro-component-with-sign-up-form/)
 
 ---
 
